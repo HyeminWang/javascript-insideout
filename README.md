@@ -4,5 +4,3 @@
 
 ![insideout](https://user-images.githubusercontent.com/114633528/215020330-677a7ab1-5868-4cdb-aed4-1a4d8059a506.png)
 캐릭터를 클릭하면 그 캐릭터에 대한 설명을 볼 수 있습니다.
-
-## 느낀점
